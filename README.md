@@ -36,20 +36,6 @@ Ce référentiel contient des ressources et des exemples pour une formation exha
 - Utilisation de scripts pour manipuler les requêtes et les réponses
 - Gestion des erreurs et des validations
 
-### Utilisation avec des frameworks front-end
-- Intégration avec React
-- Utilisation avec Angular
-- Utilisation avec Vue.js
-
-### Déploiement de JSON Server
-- Hébergement local
-- Déploiement sur des services de cloud
-- Utilisation de JSON Server avec Docker
-
-### Exemples pratiques
-- Création d'une API de gestion des tâches
-- Mise en œuvre d'une API de blog
-- Développement d'une API de catalogue de produits
 
 ### Ressources supplémentaires
 - Liens vers des articles, des tutoriels et des outils utiles sur JSON Server.
